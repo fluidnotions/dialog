@@ -1,4 +1,4 @@
-from src.dialog.dialog_loop import DialogLoop
+from .dialog_loop import DialogLoop
 
 
 def main() -> None:

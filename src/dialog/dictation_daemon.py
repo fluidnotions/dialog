@@ -1,6 +1,7 @@
 import time
-from audio_capture import AudioCapture
-from transcriber import Transcriber
+
+from .audio_capture import AudioCapture
+from .transcriber import Transcriber
 
 
 class DictationDaemon:
