@@ -1,0 +1,15 @@
+README.md
+pyproject.toml
+src/dialog/__init__.py
+src/dialog/audio_capture.py
+src/dialog/dialog_loop.py
+src/dialog/dictation_daemon.py
+src/dialog/main.py
+src/dialog/transcriber.py
+src/dialog/tts_engine.py
+src/dialog.egg-info/PKG-INFO
+src/dialog.egg-info/SOURCES.txt
+src/dialog.egg-info/dependency_links.txt
+src/dialog.egg-info/entry_points.txt
+src/dialog.egg-info/requires.txt
+src/dialog.egg-info/top_level.txt
