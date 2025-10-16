@@ -1,2 +1,5 @@
-def main() -> None:
-    print("Hello from dialog!")
+"""Dialog package exposing the CLI entry point."""
+
+from .main import main
+
+__all__ = ["main"]
